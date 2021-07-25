@@ -9,7 +9,8 @@ The "BCI Design" software package requires the operating system "Windows 7/8.1/1
 
 The graphical user interface of "BCI Design" components is made in Russian.
 
-Программный комплекс «BCI Design» предназначен для автоматизации исследований при разработке интерфейсов мозг-компьютер (ИМК). Программный комплекс реализует набор широко применяемых в ИМК методов и алгоритмов обработки электроэнцефалограмм (ЭЭГ) и позволяет исследователю выбрать методы и алгоритмы, обеспечивающие наилучшее распознавание мысленных команд пользователя в конкретном интерфейсе.
+# Программный комплекс «BCI Design» 
+Комплекс редназначен для автоматизации исследований при разработке интерфейсов мозг-компьютер (ИМК). Программный комплекс реализует набор широко применяемых в ИМК методов и алгоритмов обработки электроэнцефалограмм (ЭЭГ) и позволяет исследователю выбрать методы и алгоритмы, обеспечивающие наилучшее распознавание мысленных команд пользователя в конкретном интерфейсе.
 
 Все компоненты программного комплекса написаны на языке графического программирования NI LabVIEW.
 
@@ -19,5 +20,5 @@ The graphical user interface of "BCI Design" components is made in Russian.
 
 Программный комплекс «BCI Design» включает модули, обеспечивающие регистрацию ЭЭГ, чтение записей из файлов, предобработку, анализ и классификацию данных. Подробное описание комплекса приведено в руководстве пользователя "BCI Design Manual (in russian).doc"
 
-
+# License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
