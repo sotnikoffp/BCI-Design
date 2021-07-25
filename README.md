@@ -7,7 +7,7 @@ All components of the software package are written in visual programming languag
 
 The "BCI Design" software package requires the operating system "Windows 7/8.1/10", visual programming environment "NI LabVIEW 2016" with extension packages "NI Vision", "Advanced Signal Processing Toolkit", and "Machine Learning Toolkit".
 
-The graphical user interface of "BCI Design" components is made in Russian.
+The "BCI Design" includes components that provide EEG registration, reading records from files, EEG preprocessing, data analysis and classification. The graphical user interface of components is made in Russian.
 
 The manual for working with the software package is given in the "BCI Design Manual (in russian)".
 
